@@ -7,3 +7,10 @@
 body{
     color: aqua;
 }
+h2{
+    color: brown;
+    font-size: 40px;
+}
+.imagen1{
+    border-radius: 50%;
+}
