@@ -12,6 +12,5 @@ Este es un proyecto para la clase de GitHub, para reforzar conocimientos.
 *js
 
 ##Elaborado por
-Sofía Pérez Vanegas
-Juan Diego Celis Benítez
+Angel Stiven Velez
 Luis Eduardo Vélez Posada
